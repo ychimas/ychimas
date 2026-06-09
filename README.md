@@ -2,7 +2,7 @@
 <h1 align="center">Yesith Chimás M. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=700&height=100&lines=Desarrollador+Full-Stack;React+%26+Next.js+%C2%B7+TypeScript+%C2%B7+AI+Integration;Ingeniero+de+Sistemas;Especialista+en+Nube">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=700&height=100&lines=Full-Stack+Developer;React+%26+Next.js+%C2%B7+TypeScript+%C2%B7+AI+Integration;Systems+Engineer;Cloud+Specialist">
   </a>
 </p>
 
@@ -111,7 +111,7 @@
 ---
 
 ## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ychimas/ychimas/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>

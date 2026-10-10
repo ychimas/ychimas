@@ -9,7 +9,7 @@
 
 <br>
 <p align="center">
-  <a href="https://tu-portfolio.com">
+  <a href="https://ychimas.github.io/portfolio-ychimas/">
     <img src="https://img.shields.io/badge/🌐_Portfolio-0A66C2?style=for-the-badge" />
   </a>
   
